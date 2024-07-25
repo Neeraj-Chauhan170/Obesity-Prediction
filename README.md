@@ -16,7 +16,7 @@ model.pynb: Contains the implementation of  machine learning model used for pred
 
 Navigate through the sidebar to explore different sections such as Home, Dataset Overview, Model Performance, Explainability, Obesity Estimation Tool, and User Feedback.
 
-Example Output
-Risk Assessment Tool: Provides personalized risk assessments for obesity based on user input.
-Model Performance: Displays the accuracy and other performance metrics of the machine learning models.
-Explainability: Uses SHAP values to explain the impact of each feature on the predictions.
+### Example Output
+- Risk Assessment Tool: Provides personalized risk assessments for obesity based on user input.
+- Model Performance: Displays the accuracy and other performance metrics of the machine learning models.
+- Explainability: Uses SHAP values to explain the impact of each feature on the predictions.
