@@ -5,14 +5,14 @@ The Obesity Level Prediction Dashboard demonstrates the power of integrating AI 
 app.py: Main script to run the Streamlit application.
 model.pynb: Contains the implementation of  machine learning model used for predicting obesity levels.
 
-Prerequisites
-Python 3.x
-Streamlit
-Scikit-learn
-Pandas
-Numpy
-Matplotlib
-SHAP
+###Prerequisites
+- Python 3.x
+- Streamlit
+- Scikit-learn
+- Pandas
+- Numpy
+- Matplotlib
+- SHAP
 
 Navigate through the sidebar to explore different sections such as Home, Dataset Overview, Model Performance, Explainability, Obesity Estimation Tool, and User Feedback.
 
