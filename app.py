@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDis
 
 st.set_page_config(layout="wide")
     
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Define all functions upfront
 def load_and_preprocess_data():
